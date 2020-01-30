@@ -7,10 +7,10 @@ username="$(whoami)"
 
 echo """
 ${red}############################################################################
-WARNING! The user '${username}' will be deleted on  Wednesday, 04.10.2019, EOD for security reasons.${reset}
+WARNING! The user '${username}' will be deleted on  Wednesday, 01.29.2020, EOD for security reasons.${reset}
 In order to continue using the DAC Server, you will need to create your own user by following the steps listed in this VET confluence page:
 documentation link
-For more details or questions, please contact Farkhod (farkhod.sadykov@companyname.com) or 
+For more details or questions, please contact Ahmet (ahmet.karayol@companyname.com) or 
 ${red}
 ############################################################################${reset}
 """
